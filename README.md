@@ -234,9 +234,10 @@ C. Instalasi Net Framework 3.5
 ```markdown
 - Seting ke ip static menggunakan cmd, ketik sconfig
 ```
-![1](https://user-images.githubusercontent.com/89094789/143689067-f5a0764e-1db4-4637-b9bd-303c730348af.jpeg)
 
-![2](https://user-images.githubusercontent.com/89094789/143689073-98122d7a-eaba-4e36-9c21-44377104282a.jpeg)
+![image](https://user-images.githubusercontent.com/62064492/143060040-3187b4bc-c2ef-442e-924a-36ef3cebe5a4.png)
+
+![image](https://user-images.githubusercontent.com/62064492/143060060-92f95ebf-600c-4c5e-8df0-fea1880b923f.png)
 
 ```markdown
 - Setting IP Address Server-ADDS dan mengarah DNS ke IP address static yang digunakan.

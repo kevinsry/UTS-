@@ -1,7 +1,7 @@
 # UTS-
 UTS sistem administrasi server
 
-## 				** Jawaban UTS SAS**
+## 				** UTS Sistem administrasi server**
 
 **Kevin Surya Diansyah**
 
@@ -18,3 +18,4 @@ UTS sistem administrasi server
 -	Dengan mengklik link yang telah tersedia pada soal uts, maka akan dibawa ke link tersebut dengan tampilan seperti dibawah ini :
 ```
 
+![1](https://user-images.githubusercontent.com/89094789/143685148-f632a573-9ec6-4732-b049-c0e3cdcc521b.PNG)
